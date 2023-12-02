@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import Board from './Board';
+import Game from '../Game';
 
 function App() {
   return (
-    <Board></Board>
+    <Game></Game>
   );
 }
 
